@@ -1,0 +1,11 @@
+{
+  "project": "WORKX IT",
+  "export_date": "2026-10-14",
+  "source_commit": "7e1530e3a35b525a25fb22fc7dc2a56f1aa75a8c",
+  "source_branch": "main",
+  "history_commits": 9,
+  "hosted_url": "https://workx-it.truenewt.chatgpt.site",
+  "hosting_access_at_export": "owner-private",
+  "application": "static HTML/CSS/JavaScript",
+  "booking_status": "frontend preview only; no live availability, reservations, invitations or calls"
+}

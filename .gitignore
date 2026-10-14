@@ -1,0 +1,9 @@
+node_modules/
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+*.log
+source-history.bundle
+deploy-ready.zip
